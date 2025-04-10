@@ -1,0 +1,7 @@
+apiVersion: v2
+name: ripple-web-service
+description: A generic web application chart for VelaFlow
+type: application
+version: 1.0.0
+appVersion: "1.0"
+icon: https://kubevela.io/img/logo.svg
