@@ -3,13 +3,13 @@ entries:
   ripple-web-service:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-04-10T12:38:08.399717+04:00"
+    created: "2025-04-10T12:41:29.224973+04:00"
     description: A generic web application chart for VelaFlow
     digest: ce852f4de8322ee6d3bcf1eca20ee4d9c48612e3becd1fc2cd99a0d4d5039726
     icon: https://kubevela.io/img/logo.svg
     name: ripple-web-service
     type: application
     urls:
-    - https://github.com/spawar09/velaflow-helm-charts/blob/main/ripple-web-service-1.0.0.tgz
+    - https://raw.githubusercontent.com/spawar09/velaflow-helm-charts/main/ripple-web-service-1.0.0.tgz
     version: 1.0.0
-generated: "2025-04-10T12:38:08.399073+04:00"
+generated: "2025-04-10T12:41:29.224656+04:00"
