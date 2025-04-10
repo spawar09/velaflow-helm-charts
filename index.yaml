@@ -11,6 +11,6 @@ entries:
       name: ripple-web-service
       type: application
       urls:
-        - https://github.com/spawar09/velaflow-helm-charts/-/raw/main/ripple-web-service-1.0.0.tgz
+        - https://github.com/spawar09/velaflow-helm-charts/ripple-web-service-1.0.0.tgz
       version: 1.0.0
 generated: "2025-04-10T12:29:31.556237+04:00"
